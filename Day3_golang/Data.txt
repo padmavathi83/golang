@@ -1,0 +1,4 @@
+
+welcome to GoLang session
+
+ Session location is in BDC
